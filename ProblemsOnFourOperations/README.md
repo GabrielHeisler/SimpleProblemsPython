@@ -26,4 +26,4 @@
 
 13. Maria bought 96 toys priced equally for $12960. The amount of $1015 is still left with her. Find the cost of each toy and the amount she had.
 
-You can find these exercises [here](https://www.math-only-math.com/worksheet-on-word-problems-on-four-operations.html)
+You can find these exercises [here](https://www.math-only-math.com/worksheet-on-word-problems-on-four-operations.html).
