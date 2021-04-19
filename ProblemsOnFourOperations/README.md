@@ -25,3 +25,5 @@
 12. In an election, 52496 people voted for Ron, 44929 people for Jhon and 36824 people for Mike in a town. If everyone voted in the town, what is the total number of voters?
 
 13. Maria bought 96 toys priced equally for $12960. The amount of $1015 is still left with her. Find the cost of each toy and the amount she had.
+
+You can find these exercises [here](https://www.math-only-math.com/worksheet-on-word-problems-on-four-operations.html)
