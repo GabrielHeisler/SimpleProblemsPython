@@ -1,6 +1,3 @@
-# SimpleProblemsPython
-Simple solved exercises using Python
-
 <h2>Worksheet on Word Problems on Four Operations</h2>
 
 1. The population of a town is 198568. Out of them 45312 are men and 35678 are women. Find the number of children in the town.
