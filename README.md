@@ -1,2 +1,2 @@
 # SimpleProblemsPython
-Simple solved exercises using Python
+Simple and solved exercises using Python
